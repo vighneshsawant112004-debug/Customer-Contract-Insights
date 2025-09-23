@@ -17,18 +17,7 @@ Tech Stack
 - Report: Executive Summary & Key Insights (PDF/Markdown)
 
 # Project Structure
-Customer-Contract-Insights/
-│
-├─ Data/                # Dataset(s)
-│   └─ customer_data.csv
-│
-├─ Notebook/            # Jupyter notebook(s)
-│   └─ TCA.ipynb
-│
-├─ Reports/             # Business insights & executive summary
-│   └─ Customer_Insights_Report.pdf
-│
-├─ README.md            # Project documentation
+<img width="641" height="298" alt="image" src="https://github.com/user-attachments/assets/e86faf95-1cd1-4fe0-a278-4c5bb8563b34" />
 
 - Data/ → Store your raw or cleaned datasets.
 - Notebook/ → Your Jupyter Notebook with all the analysis.
